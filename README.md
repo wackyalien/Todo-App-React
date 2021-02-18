@@ -1,5 +1,6 @@
 # App Preview
-![](App-Preview.png)
+<img src="App-Preview.png" width="70%" >
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
